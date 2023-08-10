@@ -1,6 +1,6 @@
 # Ancient Chinese Word Segmentation and POS Tagging Using Distant Supervision (Word Alignment)
 
-Code for ICASSP2023: Ancient Chinese Word Segmentation and Part-of-Speech Tagging Using Distant Supervision
+Code for ICASSP2023: Ancient Chinese Word Segmentation and Part-of-Speech Tagging Using Distant Supervision (Word Alignment)
 
 we propose a novel augmentation method of ancient Chinese WSG and POS tagging data
 using word alignment over parallel corpus
